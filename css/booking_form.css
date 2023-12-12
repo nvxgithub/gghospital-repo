@@ -1,0 +1,51 @@
+.form_booking
+{
+    width:60%;
+    border-radius: 5px;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px rgb(129, 129, 129);
+    position: absolute;
+    top:110%;
+    left: 25%;
+}
+
+.top_fields
+{
+    display:flex;
+    width:100%;
+}
+.bottom_fields
+{
+    display:flex;
+    width:100%;
+}
+.rounded-text{
+    flex: 1;
+    font-size: 20px;
+    border-color: rgb(117, 117, 117);
+    padding:10px;
+    margin:5px;
+    border: solid 1px rgb(129, 129, 129);
+}
+.droplist{
+    flex:1;
+    font-size: 20px;
+    padding:10px;
+    margin:5px;
+    color:  rgb(129, 129, 129);
+}
+
+.form_booking button{
+    flex:1;
+    background-color:#17C1A3;
+    border-radius: 5px;
+    border-width: 0;
+    padding:10px;
+    margin:5px;
+    color:white;
+
+
+}
+.bg_image{
+    position: relative;
+}

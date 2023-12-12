@@ -1,0 +1,18 @@
+.top_header{
+    position:relative;
+}
+.caption{
+    position:absolute;
+    top:50%;
+    left:10%;
+}
+h1{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 42pt;
+}
+h3{
+    font-family: Arial;
+    font-weight: bold;
+    color: rgb(154, 154, 154);
+}

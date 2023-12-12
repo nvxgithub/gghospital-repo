@@ -1,0 +1,57 @@
+.flex_1{
+    display: flex;
+    width:100%;
+    margin: 100px;
+    margin-bottom: 20px;
+}
+
+.ggabout_legal{
+    flex: 1;
+}
+
+.gghospital{
+    flex:1;
+    margin-right: 300px;
+}
+
+.ggabout_legal td{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.flex_2{
+    display: flex;
+    width: 100%;
+    margin: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.media{
+    flex:1;
+    padding-right: 80px;
+}
+
+.media2{
+    flex:1;
+    padding-right: 80px;
+}
+
+.media2 h3{
+    font-size: 20px;
+}
+
+.media img{
+    margin:5px;
+}
+
+.main_contacts{
+    font-family: 'Inter';
+}
+
+.main_contacts h4{
+    text-align: center;
+    font-size: 10px;
+    color: rgb(184, 184, 184);
+}

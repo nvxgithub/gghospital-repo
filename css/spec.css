@@ -1,0 +1,42 @@
+.mainspec{
+    font-family:'Inter';
+    text-align: center;
+}
+
+.mainspec h1{
+    font-size: 30px;
+}
+
+.mainspec h3{
+    font-size: 12px;
+}
+
+.eachspec h1{
+    font-size: 30px;
+}
+
+.slist{
+    display: flex;
+    width:100%;
+}
+.eachspec{
+    flex:1;
+    text-align: center;
+}
+
+.viewall{
+    text-align: center;
+    
+}
+
+
+.viewall button{
+    font-size: 14px;
+    text-align: center;
+    background-color:#17C1A3;
+    border-radius: 5px;
+    border-width: 0;
+    padding:10px 40px;
+    margin:5px;
+    color:white; 
+}

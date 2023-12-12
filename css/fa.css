@@ -1,0 +1,27 @@
+.heading
+{
+    display:flex;
+}
+.heading h1{
+    flex:10;
+    font-size: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.arrows{
+    flex:1;
+    padding:20px;
+}
+
+.facilities{
+    margin-top: 100px;
+}
+
+.fac{
+    display: flex;
+}
+.fac img{
+    flex: 1;
+    margin: 20px;
+}

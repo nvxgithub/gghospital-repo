@@ -1,0 +1,31 @@
+.department{
+    padding: 20px;
+    display: flex;
+    width:100%;
+}
+.departments h3{
+    font-family:Helvetica ;
+    color: black;
+}
+.departments p{
+    font-family:Helvetica ;
+    color: rgb(56, 56, 56);
+}
+.departmentlink 
+{
+    color: rgb(0, 183, 134);
+    font-family:Helvetica;
+}
+.departments{
+    flex:1;
+    margin: 10px;
+}
+
+.maindep{
+    margin-top: 180px;
+    font-family: 'Inter';
+}
+
+.maindep h1{
+   font-size: 30px;
+}

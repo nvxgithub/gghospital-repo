@@ -1,0 +1,53 @@
+.main_subscribe{
+    width:100%;
+    background-color: #EAF2FF;
+    padding: 50px
+}
+
+.subscribe{
+    padding: 100px;
+    display: flex;
+    background-image: url(../images/subscribe_bg.png);
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 100px;
+    margin-top: 100px;
+}
+
+.subscribe h1{
+    flex:1;
+    margin-right:400px;
+    font-size: 35px;
+    text-align: left;
+    font-weight: bolder;
+}
+
+.subform{
+    flex:1;
+    display: flex;
+    vertical-align: middle;
+}
+
+
+.subform input{
+    flex:1;
+    padding: 10px;
+    border-width: 0px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+.subform button{
+    flex:1;
+    background-color:#17C1A3;
+    border-radius: 5px;
+    border-width: 0;
+    padding:10px;
+    margin:5px;
+    color:white;
+    font-size: 20px;
+}
+.subform hr
+{
+    border:solid black 1px ;
+    padding: 0px;
+}
